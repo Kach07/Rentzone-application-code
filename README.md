@@ -1,2 +1,2 @@
 # application-code
-This repository is for a rentzone dynamic website using Docker
+This repository is for storing the application code for rentzone dynamic website.
