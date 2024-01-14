@@ -1,2 +1,2 @@
 # application-code
-This repository is for storing the application code for rentzone dynamic website.
+This repository is for storing the webfile for rentzone dynamic website.
